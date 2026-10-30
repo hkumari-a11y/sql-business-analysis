@@ -43,3 +43,5 @@ SQL can support common analyst tasks such as combining related tables, calculati
 
 ## Additional hands-on project
 - [Retail Sales KPI Analysis — PostgreSQL](projects/retail-sales-kpi-analysis/README.md): schema, fictional sample data, and executable reporting queries.
+
+- [Customer Retention & Cohort Analysis](projects/customer-retention-cohort-analysis/README.md): PostgreSQL retention queries using fictional orders.
