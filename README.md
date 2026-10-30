@@ -40,3 +40,6 @@ SQL can support common analyst tasks such as combining related tables, calculati
 - Add a clearly labeled SQL example with the business question it answers.
 - Document the database dialect, table definitions, and any required sample data.
 - Include verified example output and a short explanation of the result.
+
+## Additional hands-on project
+- [Retail Sales KPI Analysis — PostgreSQL](projects/retail-sales-kpi-analysis/README.md): schema, fictional sample data, and executable reporting queries.
